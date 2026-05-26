@@ -1,0 +1,31 @@
+{
+  "id": "developer-workflow/testing",
+  "title": "Testing",
+  "description": "How to write, organise, and run tests using Vitest in node-demo.",
+  "source": "@site/docs/developer-workflow/testing.md",
+  "sourceDirName": "developer-workflow",
+  "slug": "/developer-workflow/testing",
+  "permalink": "/node-demo/docs/current/developer-workflow/testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/developer-workflow/testing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "testing",
+    "title": "Testing",
+    "sidebar_label": "Testing",
+    "description": "How to write, organise, and run tests using Vitest in node-demo."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Coding Standards",
+    "permalink": "/node-demo/docs/current/developer-workflow/coding-standards"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/node-demo/docs/current/developer-workflow/contributing"
+  }
+}

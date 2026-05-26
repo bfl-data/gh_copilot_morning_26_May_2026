@@ -1,0 +1,31 @@
+{
+  "id": "architecture/overview",
+  "title": "Architecture Overview",
+  "description": "High-level architecture, request lifecycle, and design principles of node-demo.",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/node-demo/docs/current/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/architecture/overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "overview",
+    "title": "Architecture Overview",
+    "sidebar_label": "Overview",
+    "description": "High-level architecture, request lifecycle, and design principles of node-demo."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Environment Setup",
+    "permalink": "/node-demo/docs/current/getting-started/environment-setup"
+  },
+  "next": {
+    "title": "Folder Structure",
+    "permalink": "/node-demo/docs/current/architecture/folder-structure"
+  }
+}

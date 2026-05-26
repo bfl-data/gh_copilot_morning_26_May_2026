@@ -1,0 +1,31 @@
+{
+  "id": "developer-workflow/coding-standards",
+  "title": "Coding Standards",
+  "description": "TypeScript, Express, and general coding conventions for the node-demo project.",
+  "source": "@site/docs/developer-workflow/coding-standards.md",
+  "sourceDirName": "developer-workflow",
+  "slug": "/developer-workflow/coding-standards",
+  "permalink": "/node-demo/docs/current/developer-workflow/coding-standards",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/developer-workflow/coding-standards.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "coding-standards",
+    "title": "Coding Standards",
+    "sidebar_label": "Coding Standards",
+    "description": "TypeScript, Express, and general coding conventions for the node-demo project."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Best Practices",
+    "permalink": "/node-demo/docs/current/security/best-practices"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/node-demo/docs/current/developer-workflow/testing"
+  }
+}

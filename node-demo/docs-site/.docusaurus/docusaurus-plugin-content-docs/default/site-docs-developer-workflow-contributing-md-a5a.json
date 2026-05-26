@@ -1,0 +1,31 @@
+{
+  "id": "developer-workflow/contributing",
+  "title": "Contributing Guidelines",
+  "description": "How to contribute to node-demo — branching, PRs, reviews, and release process.",
+  "source": "@site/docs/developer-workflow/contributing.md",
+  "sourceDirName": "developer-workflow",
+  "slug": "/developer-workflow/contributing",
+  "permalink": "/node-demo/docs/current/developer-workflow/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/developer-workflow/contributing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "contributing",
+    "title": "Contributing Guidelines",
+    "sidebar_label": "Contributing",
+    "description": "How to contribute to node-demo — branching, PRs, reviews, and release process."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/node-demo/docs/current/developer-workflow/testing"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/node-demo/docs/current/troubleshooting/faq"
+  }
+}

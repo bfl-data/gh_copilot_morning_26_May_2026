@@ -1,0 +1,27 @@
+{
+  "id": "api/auth",
+  "title": "Auth API",
+  "description": "Complete reference for the Authentication REST API — register and login endpoints.",
+  "source": "@site/docs/api/auth.md",
+  "sourceDirName": "api",
+  "slug": "/api/auth",
+  "permalink": "/node-demo/docs/current/api/auth",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/api/auth.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "auth",
+    "title": "Auth API",
+    "sidebar_label": "Auth",
+    "description": "Complete reference for the Authentication REST API — register and login endpoints."
+  },
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "Users",
+    "permalink": "/node-demo/docs/current/api/users"
+  }
+}

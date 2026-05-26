@@ -1,0 +1,31 @@
+{
+  "id": "guides/logging",
+  "title": "Logging Strategy",
+  "description": "How to use the Pino logger in node-demo — conventions, levels, and structured logging patterns.",
+  "source": "@site/docs/guides/logging.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/logging",
+  "permalink": "/node-demo/docs/current/guides/logging",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/guides/logging.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "logging",
+    "title": "Logging Strategy",
+    "sidebar_label": "Logging",
+    "description": "How to use the Pino logger in node-demo — conventions, levels, and structured logging patterns."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Error Handling",
+    "permalink": "/node-demo/docs/current/guides/error-handling"
+  },
+  "next": {
+    "title": "Authentication Flow",
+    "permalink": "/node-demo/docs/current/security/authentication-flow"
+  }
+}

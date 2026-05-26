@@ -1,0 +1,31 @@
+{
+  "id": "guides/error-handling",
+  "title": "Error Handling",
+  "description": "How errors are structured, propagated, and serialised in node-demo.",
+  "source": "@site/docs/guides/error-handling.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/error-handling",
+  "permalink": "/node-demo/docs/current/guides/error-handling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/guides/error-handling.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "error-handling",
+    "title": "Error Handling",
+    "sidebar_label": "Error Handling",
+    "description": "How errors are structured, propagated, and serialised in node-demo."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Build & Run",
+    "permalink": "/node-demo/docs/current/guides/build-and-run"
+  },
+  "next": {
+    "title": "Logging",
+    "permalink": "/node-demo/docs/current/guides/logging"
+  }
+}

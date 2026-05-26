@@ -1,0 +1,26 @@
+/**
+ * node-demo Docusaurus theme overrides
+ */
+
+:root {
+  --ifm-color-primary: #3c873a;
+  --ifm-color-primary-dark: #367833;
+  --ifm-color-primary-darker: #33712f;
+  --ifm-color-primary-darkest: #2a5d27;
+  --ifm-color-primary-light: #429640;
+  --ifm-color-primary-lighter: #459d43;
+  --ifm-color-primary-lightest: #50b14d;
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #50b14d;
+  --ifm-color-primary-dark: #43a340;
+  --ifm-color-primary-darker: #3f9a3c;
+  --ifm-color-primary-darkest: #347f31;
+  --ifm-color-primary-light: #5dbf5a;
+  --ifm-color-primary-lighter: #61c25e;
+  --ifm-color-primary-lightest: #73cb70;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

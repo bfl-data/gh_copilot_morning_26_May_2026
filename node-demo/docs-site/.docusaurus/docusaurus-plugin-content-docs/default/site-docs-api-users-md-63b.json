@@ -1,0 +1,27 @@
+{
+  "id": "api/users",
+  "title": "Users API",
+  "description": "Complete reference for the Users REST API endpoints.",
+  "source": "@site/docs/api/users.md",
+  "sourceDirName": "api",
+  "slug": "/api/users",
+  "permalink": "/node-demo/docs/current/api/users",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/api/users.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "users",
+    "title": "Users API",
+    "sidebar_label": "Users",
+    "description": "Complete reference for the Users REST API endpoints."
+  },
+  "sidebar": "apiSidebar",
+  "next": {
+    "title": "Auth",
+    "permalink": "/node-demo/docs/current/api/auth"
+  }
+}

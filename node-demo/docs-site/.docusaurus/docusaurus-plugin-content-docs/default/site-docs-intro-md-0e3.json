@@ -1,0 +1,28 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Overview of the node-demo TypeScript training project — what it is, who it's for, and how to navigate the docs.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/node-demo/docs/current/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/intro",
+    "description": "Overview of the node-demo TypeScript training project — what it is, who it's for, and how to navigate the docs."
+  },
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/node-demo/docs/current/getting-started/installation"
+  }
+}

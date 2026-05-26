@@ -1,0 +1,31 @@
+{
+  "id": "getting-started/local-development",
+  "title": "Local Development",
+  "description": "How to run node-demo locally, iterate quickly with hot reload, and run tests in watch mode.",
+  "source": "@site/docs/getting-started/local-development.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/local-development",
+  "permalink": "/node-demo/docs/current/getting-started/local-development",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/getting-started/local-development.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "local-development",
+    "title": "Local Development",
+    "sidebar_label": "Local Development",
+    "description": "How to run node-demo locally, iterate quickly with hot reload, and run tests in watch mode."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/node-demo/docs/current/getting-started/installation"
+  },
+  "next": {
+    "title": "Environment Setup",
+    "permalink": "/node-demo/docs/current/getting-started/environment-setup"
+  }
+}

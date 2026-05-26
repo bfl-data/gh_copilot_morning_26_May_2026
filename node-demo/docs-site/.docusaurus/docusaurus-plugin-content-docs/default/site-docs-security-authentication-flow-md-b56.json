@@ -1,0 +1,31 @@
+{
+  "id": "security/authentication-flow",
+  "title": "Authentication Flow",
+  "description": "How registration and login work in node-demo, with sequence diagrams and implementation notes.",
+  "source": "@site/docs/security/authentication-flow.md",
+  "sourceDirName": "security",
+  "slug": "/security/authentication-flow",
+  "permalink": "/node-demo/docs/current/security/authentication-flow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/security/authentication-flow.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "authentication-flow",
+    "title": "Authentication Flow",
+    "sidebar_label": "Authentication Flow",
+    "description": "How registration and login work in node-demo, with sequence diagrams and implementation notes."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Logging",
+    "permalink": "/node-demo/docs/current/guides/logging"
+  },
+  "next": {
+    "title": "Best Practices",
+    "permalink": "/node-demo/docs/current/security/best-practices"
+  }
+}

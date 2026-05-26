@@ -1,0 +1,27 @@
+{
+  "id": "troubleshooting/faq",
+  "title": "FAQ & Troubleshooting",
+  "description": "Frequently asked questions and troubleshooting guide for node-demo.",
+  "source": "@site/docs/troubleshooting/faq.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/faq",
+  "permalink": "/node-demo/docs/current/troubleshooting/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/troubleshooting/faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "faq",
+    "title": "FAQ & Troubleshooting",
+    "sidebar_label": "FAQ",
+    "description": "Frequently asked questions and troubleshooting guide for node-demo."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/node-demo/docs/current/developer-workflow/contributing"
+  }
+}

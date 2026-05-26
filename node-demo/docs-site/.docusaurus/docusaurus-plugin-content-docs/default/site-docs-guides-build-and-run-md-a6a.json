@@ -1,0 +1,31 @@
+{
+  "id": "guides/build-and-run",
+  "title": "Build & Run",
+  "description": "How to build the TypeScript project and run it in development and production modes.",
+  "source": "@site/docs/guides/build-and-run.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/build-and-run",
+  "permalink": "/node-demo/docs/current/guides/build-and-run",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/node-demo/tree/main/docs-site/docs/guides/build-and-run.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "build-and-run",
+    "title": "Build & Run",
+    "sidebar_label": "Build & Run",
+    "description": "How to build the TypeScript project and run it in development and production modes."
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Folder Structure",
+    "permalink": "/node-demo/docs/current/architecture/folder-structure"
+  },
+  "next": {
+    "title": "Error Handling",
+    "permalink": "/node-demo/docs/current/guides/error-handling"
+  }
+}
